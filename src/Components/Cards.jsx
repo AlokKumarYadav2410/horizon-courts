@@ -11,7 +11,7 @@ const Cards = () => {
             <SecondCard />
             <ThirdCard />
         </div>
-      <p>A few more facts about us in numbers</p>
+      <p className='center-line'>A few more facts about us in numbers</p>
     </div>
   )
 }

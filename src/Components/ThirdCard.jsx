@@ -15,7 +15,7 @@ const ThirdCard = () => {
           <p>Intermediate</p>
           <p>Advanced</p>
         </div>
-        <div className='content'>
+        <div className='content dot-section'>
           <Dots count = {[1,2,3,4,5,6,7,8,9,10]} />
           <Dots count = {[1,2,3,4,5,6,7,8]} />
           <Dots count = {[1,2,3,4,5,6,7]} />
